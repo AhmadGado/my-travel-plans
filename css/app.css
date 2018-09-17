@@ -22,6 +22,7 @@ body {
 }
 
 .destination-container {
+    font-family:mv boli;
     display: flex;
     flex-flow: wrap;
     justify-content: center;
